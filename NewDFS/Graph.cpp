@@ -65,6 +65,6 @@ void Graph::Solution()
 	}
 	else
 	{
-		cout << "Khong duong di !";
+		cout << "Khong co duong di !";
 	}
 }
